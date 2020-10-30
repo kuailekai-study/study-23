@@ -1,6 +1,10 @@
 # study-23
-```javascript
-const select = document.querySelector('select');
-para.addEventListener('click', updateName);
-var loginNm = document.getElementById("loginNm").value;
+## 安装
+### 从CDN引入
+```html
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/kuailekai-study/study-23/"
+  crossorigin="anonymous"
+/>
 ```
