@@ -4,7 +4,7 @@
 ```html
 <link
   rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/kuailekai-study/study-23/"
+  href="https://cdn.jsdelivr.net/gh/kuailekai-study/study-23/3/style.css"
   crossorigin="anonymous"
 />
 ```
